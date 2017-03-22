@@ -4,6 +4,8 @@
 * [React速学教程(下)中的ES6](http://blog.csdn.net/fengyuzhengfan/article/details/52233582)
 * [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
 
+
+
 * 模块
 
 在ES6中，模块的功能主要由 export 和 import 组成。每一个模块都有自己单独的作用域，模块之间的相互调用关系是通过 export 来规定模块对外暴露的接口，通过import来引用其它模块提供的接口。同时还为模块创造了命名空间，防止函数的命名冲突。
